@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/box-shadow-generator-using-react)/static/css/main.2a77a591.css",
+    "main.js": "/box-shadow-generator-using-react)/static/js/main.e6570686.js",
+    "static/js/787.c7ce78dc.chunk.js": "/box-shadow-generator-using-react)/static/js/787.c7ce78dc.chunk.js",
+    "index.html": "/box-shadow-generator-using-react)/index.html",
+    "main.2a77a591.css.map": "/box-shadow-generator-using-react)/static/css/main.2a77a591.css.map",
+    "main.e6570686.js.map": "/box-shadow-generator-using-react)/static/js/main.e6570686.js.map",
+    "787.c7ce78dc.chunk.js.map": "/box-shadow-generator-using-react)/static/js/787.c7ce78dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a77a591.css",
+    "static/js/main.e6570686.js"
+  ]
+}
